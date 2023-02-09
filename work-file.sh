@@ -3,4 +3,6 @@
 
 echo "I have changed everything " 
 
-neofetch
+
+
+echo "I want to see the conflict" 
