@@ -2,3 +2,4 @@
 
 echo "Welcome first line"
 
+neofetch
